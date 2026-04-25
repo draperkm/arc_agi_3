@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.env
+*.venv
+GOALS.md
+output_explained.md
+output.txt
+PROGRESS.md
+README.md
+
+
+# Virtual environments
+.venv
+.claude
+
+# Notebooks — keep only 01_sdk_basics and utils
+notebooks/arc3-sample-submission*.ipynb
+notebooks/environment_files/
+notebooks/submission.parquet
